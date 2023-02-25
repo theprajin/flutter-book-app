@@ -1,3 +1,3 @@
 # book_app
 
-Book App developer using Flutter and Dart.
+Book App developed using Flutter and Dart.
