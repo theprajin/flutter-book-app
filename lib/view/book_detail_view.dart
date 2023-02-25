@@ -1,14 +1,6 @@
-import 'dart:ui';
-
 import 'package:flutter/material.dart';
 
 class BookDetailView extends StatelessWidget {
-  // final String title;
-  // final String description;
-  // final String imageUrl;
-  // final String genre;
-  // final int rating;
-
   static const routeName = '/book-detail';
 
   const BookDetailView({

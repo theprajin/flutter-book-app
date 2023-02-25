@@ -20,7 +20,7 @@ class HomeView extends StatelessWidget {
       ),
       routes: {
         BookListView.routeName: (context) => const BookListView(),
-        BookDetailView.routeName: (context) => BookDetailView(),
+        BookDetailView.routeName: (context) => const BookDetailView(),
       },
     );
   }
